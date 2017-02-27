@@ -1,4 +1,4 @@
-# React Native Material Design TextInput
+# React Native Material Design TextInput with Error Message
 
 React Native TextInput styled with Material Design.
 
@@ -78,6 +78,8 @@ multiline | bool | `false` | If true, it will allow multiline text input
 height | number | `undefined` | A number representing the initial height of the textInput
 autoGrow | bool | `false` | If true enables autogrow of the textInput 
 underlineColorAndroid | string | `rgba(0,0,0,0)` | This sets the default underline color on Android to transparent ([Issue #1](https://github.com/evblurbs/react-native-md-textinput/issues/1)).
+message | string | | This string appears as the message below underline.
+showMessage | bool | `false` | If true shows the message below the underline.
 
 ### Style Overrides
 
