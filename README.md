@@ -1,12 +1,12 @@
-# React Native Material Design TextInput with Error Message
+# React Native Material Design TextInput with Helper Message
 
-React Native TextInput styled with Material Design.
+React Native TextInput styled with Material Design and helper message below underline.
 
 ![demo](/demo.gif)
 
-## Installation
+## Installation 
 ```
-npm install react-native-md-textinput
+npm install https://github.com/AndroConsis/react-native-md-textinput/tarball/master
 ```
 
 ## Usage
