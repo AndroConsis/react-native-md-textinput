@@ -6,7 +6,7 @@ React Native TextInput styled with Material Design and helper message below unde
 
 ## Installation 
 ```
-npm install https://github.com/AndroConsis/react-native-md-textinput/tarball/master
+npm install https://github.com/AndroConsis/react-native-md-textinput/tarball/master --save
 ```
 
 ## Usage
